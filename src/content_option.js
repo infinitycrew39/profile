@@ -1,7 +1,7 @@
 const logotext = "INFINITY CREW";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Infinity Crew",
+    // description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
@@ -16,58 +16,58 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am an expert in the field of blockchain, specializing in the role of Validator. With experience in managing blockchain networks and developing decentralized applications (dApps), I ensure the security and performance of the network by validating transactions and creating new blocks. In addition to managing Validators, I also develop Web3 solutions, combining blockchain technology and decentralized protocols to enhance the efficiency of distributed systems.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Blockchain Developer",
+        where: "Blockchain Solutions",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Validator Operator",
+        where: "DeFi Project",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Blockchain Consultant",
+        where: "Tech Advisors",
+        date: "2022",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "Solidity",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "JavaScript",
+        value: 85,
     },
     {
-        name: "Jquery",
+        name: "Rust",
+        value: 80,
+    },
+    {
+        name: "Go (Golang)",
+        value: 90,
+    },
+    {
+        name: "Python",
         value: 85,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I have experience in UI & UX design for blockchain applications and validator systems. I research user needs to create intuitive and user-friendly interfaces. I also focus on optimizing the user experience, ensuring clear understanding of the validator process and features related to blockchain.",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I have experience in developing mobile applications in the blockchain and validator space. I have implemented features such as staking, managing validator nodes, and monitoring network performance. I focus on optimizing performance and security for users in a decentralized environment.",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I have experience in designing WordPress sites for blockchain and validator projects. I have developed user-friendly websites, integrating validator management features and blockchain information. I focus on creating accessible content and enhancing the user experience.",
     },
 ];
 
