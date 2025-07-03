@@ -1,7 +1,7 @@
 .site__header {
     top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 .menu__button {
@@ -22,7 +22,7 @@
 }
 
 .nav_ac {
-    padding: 5px 15px;
+    padding: 6px 15px;
     margin: 0;
     border: unset;
     background: var(--primary-color);
