@@ -18,8 +18,8 @@ button.btn.ac_btn:hover {
 
 .loading-bar {
     position: fixed;
-    top: 0;
-    left: 0;
+    top: 1;
+    left: 1;
     right: 0;
     height: 10px;
     z-index: 999999999;
